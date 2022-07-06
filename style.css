@@ -145,7 +145,7 @@ hr{
     display: flex;
     width: 80%;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 10%;
   
     
 }
@@ -173,7 +173,53 @@ hr{
     padding: 15px 25px;
     color: white;
     border-radius: 5px;
+    font-weight: 700;
     
 }
+.Survive{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 10%;
+}
+.sign-up{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-top: 8%;
+}
+.sign-up h1{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.sign-up-item{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 10% 15%;
+    background-color: rgb(234, 217, 155);
+    position: relative;
+    display: block;
+}
 
-
+.mail input {
+    width: 60%;
+    padding: 20px 40px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    background-color: rgb(218, 215, 215);
+    
+    
+}
+.btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 100px;
+    background: tomato;
+    padding: 18px 70px;
+    font-size: 17px;
+   color: white;
+   border-radius: 5px;
+}
