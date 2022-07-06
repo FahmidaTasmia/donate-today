@@ -141,4 +141,39 @@ hr{
 .provide-item p{
     color: grey;
 }
+.depends{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+  
+    
+}
+.half-width{
+  margin-right: 5%;
+    
+    
+}
+.half-width h1{
+    font-size: 40px;
+    font-weight: 700;
+  
+}
+.half-width p{
+   margin-top:5% ;
+    margin-bottom: 10%;
+}
+.half-width img{
+    border-radius: 5px;
+   
+}
+.half-width a{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 25px;
+    color: white;
+    border-radius: 5px;
+    
+}
+
 
