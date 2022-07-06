@@ -223,3 +223,18 @@ hr{
    color: white;
    border-radius: 5px;
 }
+footer{
+    background-color: black;
+    margin-top: 10%;
+    padding: 40px;
+    margin: auto;
+    text-align: center;
+}
+footer h3{
+    color: white;
+    margin-bottom: 20px;
+}
+footer p{
+    color: white;
+}
+
